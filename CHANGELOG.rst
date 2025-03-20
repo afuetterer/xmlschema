@@ -64,7 +64,7 @@ CHANGELOG
 * Use XPath subtree as fragment for xs:assert (issue #386)
 * Fix in XMLSchemaProxy definition and usage for providing
   a base-uri to schema nodes (issue #379)
-* Module xpath.py splitted to a subpackage for including all the
+* Module xpath.py split to a subpackage for including all the
   custom XPath 1.0/2.0 parsers and related classes to XPath
 * Add support for Python 3.13 (pre-releases)
 
@@ -434,7 +434,7 @@ CHANGELOG
 =======================
 * Added a script for running the W3C XSD test suite.
 * Check restrictions and model groups UPA violations
-* Model groups splitted between two modules for more focusing on models basics
+* Model groups split between two modules for more focusing on models basics
 * Added two new exceptions for model group errors
 * More control on imported namespaces
 * Added *use_meta* argument to schema classes

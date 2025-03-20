@@ -57,7 +57,7 @@ The default mode is *strict*, both for schemas and for XML data. The mode is set
 the *validation* argument, provided when creating the schema instance or when you want to
 validate/decode XML data.
 For example you can build a schema using a *strict* mode and then decode XML data
-using the *validation* argument setted to 'lax'.
+using the *validation* argument set to 'lax'.
 
 .. note::
     From release v1.1.1 the *iter_decode()* and *iter_encode()* methods propagate

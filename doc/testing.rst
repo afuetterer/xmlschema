@@ -44,7 +44,7 @@ Test cases based on files
 =========================
 
 Three scripts (*test_all.py*, *test_schemas.py*, *test_validation.py*) create many tests
-dinamically, building test classes from a set of XSD/XML files. Only a small set of test
+dynamically, building test classes from a set of XSD/XML files. Only a small set of test
 files is published in the repository for copyright reasons. You can find the repository
 test files into ``tests/test_cases/`` subdirectory.
 

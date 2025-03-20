@@ -9,7 +9,7 @@
 #
 # mypy: ignore-errors
 """
-This module contains abstact base class and helper
+This module contains abstract base class and helper
 functions for building XSD based code generators.
 """
 import os

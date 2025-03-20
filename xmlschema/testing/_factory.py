@@ -12,7 +12,7 @@
 Test factory for creating test cases from lists of paths to XSD or XML files.
 
 The list of cases can be defined within files named "testfiles". These are text files
-that contain a list of relative paths to XSD or XML files, that are used to dinamically
+that contain a list of relative paths to XSD or XML files, that are used to dynamically
 build a set of test classes. Each path is followed by a list of options that defines a
 custom setting for each test.
 """
